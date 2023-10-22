@@ -20,9 +20,6 @@ StackNode* newNode(int data){
 }
 
 bool isEmpty(StackNode *root){
-    // if(!root){
-    //     cout << "STACK EMPTY\n";
-    // }
     return !root;
 }
 
@@ -90,10 +87,7 @@ void ReverseA(StackNode** root, StackNode** root2){
     cout << endl;
     //cout << "---REVERSEDa PEEK FOR ROOT2--- "; cout << peek(*root2); cout << endl;
 }
-/*
-    AT THIS MOMENT ELEMENTS COUNTER IS A STATIC INT index, IT MAY CAUSE PROBLEMS SO KEEP IT
-        IN MIND :D
-*/
+
 void ReverseB(StackNode** root){
     
     int size_temp_tab = getSizeOfList(*root);
