@@ -1,0 +1,25 @@
+1789 1797 Unaffiliated George Washington 
+1797 1801 Federalist John Adams
+1801 1809 Democratic-Republican Thomas Jefferson 
+1809 1817 Democratic-Republican James Madison 
+1817 1825 Democratic-Republican James Monroe 
+1825 1829 Democratic-Republican John Quincy Adams  
+1829 1837 Democratic Andrew Jackson  
+1837 1841 Democratic Martin Van Buren  
+1841 1841 Whig William Henry Harrison  
+1841 1845 Whig John Tyler 
+1845 1849 Democratic James K. Polk  
+1849 1850 Whig Zachary Taylor
+1850 1853 Whig Millard Fillmore  
+1853 1857 Democratic Franklin Pierce
+1857 1861 Democratic James Buchanan
+1861 1865 Republican Abraham Lincoln
+1865 1869 Democratic Andrew Johnson
+1869 1877 Republican Ulysses S. Grant
+1877 1881 Republican Rutherford B. Hayes
+1881 1881 Republican James A. Garfield
+1881 1885 Republican Chester A. Arthur 
+1885 1889 Democratic Grover Cleveland 
+1889 1893 Republican Benjamin Harrison 
+1893 1897 Democratic Grover Cleveland 
+1897 1901 Republican William McKinley
